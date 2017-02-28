@@ -18,7 +18,7 @@
 * http://blog.csdn.net/hmt20130412
 * http://blog.ibireme.com/archive/ 
 * http://blog.ibireme.com/archive/
-* http://mrpeak.cn — http://mrpeak.cn
+* http://mrpeak.cn
 
 ## 第三方库
 
