@@ -25,3 +25,6 @@
 #### Objective-C
 * [Onboard](https://github.com/mamaral/Onboard): An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.一个用来展示帮助导引的工具
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit): This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.一个软件内设置功能集合视图工具
+* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): Super Awesome Easy Fetching for Core Data 1!!!11!!!!1! 基于CoreData的数据存取工具。
+      1.http://childhood.logdown.com/posts/208957/easy-magicalrecord-01
+      
